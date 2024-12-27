@@ -16,7 +16,7 @@
 * url 양식 참고 [[2024.12.27]양식 참고용 제목](https://gayeon-l.tistory.com/)
   * 더블 토글
 * Programmers
- * [[2024.12.27][Level 1][구현] 개인정보 수집 유효기간](Coding Test/Programmers/[2023 KAKAO BLIND RECRUITMENT][Level 1][구현] 개인정보 수집 유효기간.md)
+ * [[2024.12.27][Level 1][구현]개인정보 수집 유효기간](Coding Test/Programmers/[2023 KAKAO BLIND RECRUITMENT][Level 1][구현] 개인정보 수집 유효기간.md)
 
 ### JAVA
 
