@@ -16,6 +16,7 @@
 * url 양식 참고 [[2024.12.27]양식 참고용 제목](https://gayeon-l.tistory.com/)
 * Programmers
   * [[2024.12.27][Level 1][구현]개인정보 수집 유효기간](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/Programmers/%5B2023%20KAKAO%20BLIND%20RECRUITMENT%5D%5BLevel%201%5D%5B%EA%B5%AC%ED%98%84%5D%20%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.md)
+  * ()
 
 ### JAVA
 
