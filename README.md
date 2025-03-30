@@ -19,7 +19,8 @@
 
 * 이것이 코딩테스트다-Python
   * [[2025.03.30][Greedy]큰 수의 법칙](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/%5BPython%5D%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Greedy/%ED%81%B0%20%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.md)
-
+  * [[2025.03.30][Greedy]거스름돈](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/%5BPython%5D%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Greedy/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.md) 
+ 
 
 ### Computer Science
 
