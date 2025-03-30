@@ -13,9 +13,13 @@
 ## 공부 분야
 
 ### Coding Test-Python
-* Programmers
+* Programmers-JAVA
   * [[2024.12.27][Level 1][구현]개인정보 수집 유효기간](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/Programmers/%5B2023%20KAKAO%20BLIND%20RECRUITMENT%5D%5BLevel%201%5D%5B%EA%B5%AC%ED%98%84%5D%20%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.md)
   * [[2025.01.02][Level 1][HashMap]성격 유형 검사하기](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/Programmers/%5B2022%20KAKAO%20TECH%20INTERNSHIP%5D%5BLevel%201%5D%5BHashMap%5D%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.md)
+
+* 이것이 코딩테스트다-Python
+  * [[2025.03.30][Greedy]큰 수의 법칙](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/%5BPython%5D%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Greedy/%ED%81%B0%20%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.md)
+
 
 ### Computer Science
 
