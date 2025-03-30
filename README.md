@@ -12,15 +12,11 @@
 
 ## 공부 분야
 
-### Coding Test-JAVA
+### Coding Test-Python
 * Programmers
   * [[2024.12.27][Level 1][구현]개인정보 수집 유효기간](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/Programmers/%5B2023%20KAKAO%20BLIND%20RECRUITMENT%5D%5BLevel%201%5D%5B%EA%B5%AC%ED%98%84%5D%20%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.md)
   * [[2025.01.02][Level 1][HashMap]성격 유형 검사하기](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/Programmers/%5B2022%20KAKAO%20TECH%20INTERNSHIP%5D%5BLevel%201%5D%5BHashMap%5D%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.md)
 
-### JAVA
+### Computer Science
 
-### OOP
-
-### Spring Framework
-
-### AWS
+### Security News
