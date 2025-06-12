@@ -28,6 +28,7 @@
   * [[2025.06.07][Python 기초 100제]6061~6080번 문제 풀이](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/Code%20Up/Python%20%EA%B8%B0%EC%B4%88%20100%EC%A0%9C/6061~6080%EB%B2%88%20%EB%AC%B8%EC%A0%9C.md)
   * [[2025.06.09][Python 기초 100제]6081~6090번 문제 풀이](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/Code%20Up/Python%20%EA%B8%B0%EC%B4%88%20100%EC%A0%9C/6081~60100%EB%B2%88%20%EB%AC%B8%EC%A0%9C.md)
   * [[2025.06.10][Python 기초 100제]6091~6096번 문제 풀이](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/Code%20Up/Python%20%EA%B8%B0%EC%B4%88%20100%EC%A0%9C/6091~6098%EB%B2%88%20%EB%AC%B8%EC%A0%9C.md)
+  * [[2025.06.11][Python 기초 100제]6097~6098번 문제 풀이](https://github.com/gayeonni/TIL/blob/main/Coding%20Test/Code%20Up/Python%20%EA%B8%B0%EC%B4%88%20100%EC%A0%9C/6097~6098%EB%B2%88%20%EB%AC%B8%EC%A0%9C.md)
 
 
 ### Computer Science
