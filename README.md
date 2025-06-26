@@ -32,5 +32,6 @@
 
 
 ### Computer Science
+* [[2025.06.25]CPU, 멀티코어, 멀티스레드](https://github.com/gayeonni/TIL/blob/main/Computer%20Science/CPU,%20%EB%A9%80%ED%8B%B0%EC%BD%94%EC%96%B4,%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 
 ### Security News
