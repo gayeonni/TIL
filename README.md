@@ -35,5 +35,6 @@
 * [[2025.03.30]복잡도](https://github.com/gayeonni/TIL/blob/main/Computer%20Science/%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
 * [[2025.06.25][CPU]CPU, 멀티코어, 멀티스레드](https://github.com/gayeonni/TIL/blob/main/Computer%20Science/CPU,%20%EB%A9%80%ED%8B%B0%EC%BD%94%EC%96%B4,%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 * [[2025.07.01][CPU]병렬성과 동시성](https://github.com/gayeonni/TIL/blob/main/Computer%20Science/%5BCPU%5D%EB%B3%91%EB%A0%AC%EC%84%B1%EA%B3%BC%20%EB%8F%99%EC%8B%9C%EC%84%B1.md)
+* [[2025.07.03][메모리]RAM, 빅 엔디안과 리틀 엔디안, 캐시 메모리](https://github.com/gayeonni/TIL/blob/main/Computer%20Science/%5B%EB%A9%94%EB%AA%A8%EB%A6%AC%5DRAM,%20%EB%B9%85%20%EC%97%94%EB%94%94%EC%95%88%EA%B3%BC%20%EB%A6%AC%ED%8B%80%20%EC%97%94%EB%94%94%EC%95%88,%20%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
 
 ### Security News
